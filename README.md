@@ -12,14 +12,14 @@ O **Papoco Admin** é um painel de controle administrativo responsivo desenvolvi
   <img src="img/TelaInicial.png" alt="Visão Geral" width="700">
   <p><i>Dashboard e Métricas de Engajamento</i></p>
   <br>
-  <img src="img/telausuarios.png">
-  <img src="img/opcoesEmUsuarios.png">
+  <img src="img/telausuarios.png" alt="Visão Geral" width="700">
+  <img src="img/opcoesEmUsuarios.png" alt="Visão Geral" width="700">
   <p><i>Painel de Gestão e Controle de Acesso</i></p>
-  <img src="img/logs Usuaiors.png">
-  <img src="img/logsPorUsuario.png">
+  <img src="img/logs Usuaiors.png" alt="Visão Geral" width="700">
+  <img src="img/logsPorUsuario.png" alt="Visão Geral" width="700">
   <p><i>Painel de logs de usuarios</i></p>
-  <img src="img/lista de desejo.png">
-  <img src="img/whislist.png">
+  <img src="img/lista de desejo.png" alt="Visão Geral" width="700">
+  <img src="img/whislist.png" alt="Visão Geral" width="700">
   <p><i>Painel Lista de desejos por usuário</i></p>
 </div>
 
